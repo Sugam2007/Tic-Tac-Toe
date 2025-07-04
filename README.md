@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-This is simple game made up of using html,css and javascript.
+This is a simple game made by using html,css and javascript.
